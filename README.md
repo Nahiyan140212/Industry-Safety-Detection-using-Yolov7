@@ -11,6 +11,14 @@
 
 ## Workflows
 
+ - constants
+ - config_entity
+ - artifact_entity
+ - components
+ - pipeline
+ - app.py
+
+
 
 
 
@@ -22,6 +30,12 @@ git add .
 git commit -m "Updated"
 
 git push origin main
+```
+## AWS Configuration
+```bash
+aws cli download link: https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
+aws configure
 ```
 
 ## How to run?
